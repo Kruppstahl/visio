@@ -1,0 +1,410 @@
+{
+	"listenname":	"Default-JSON-Config",
+	"senderliste": 
+	[
+		{
+			"sendername": "Antenne Bayern - Top 40",
+			"url": "http://mp3channels.webradio.antenne.de/top-40"
+		},
+		{
+			"sendername": "Antenne Bayern - Weihnachtshits",
+			"url": "http://mp3channels.webradio.antenne.de/weihnachts-hits"
+		},
+		{
+			"sendername": "Antenne Bayern - Hits für Kids",
+			"url": "http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u"
+		},
+		{
+			"sendername": "Antenne Bayern - Classic Rock Live (MP3)",
+			"url": "http://mp3channels.webradio.antenne.de/classic-rock-live"
+		},
+		{
+			"sendername": "Antenne Bayern",
+			"url": "http://mp3channels.webradio.antenne.de:80/antenne"
+		},
+		{
+			"sendername": "Antenne Düsseldorf",
+			"url": "http://edge.live.mp3.mdn.newmedia.nacamar.net/antennedus/livestream.mp3"
+		},
+		{
+			"sendername": "Antenne Frankfurt",
+			"url": "http://mp3.antennefrankfurt.c.nmdn.net/antennefrankfurt/livestream64.aac"
+		},
+		{
+			"sendername": "Antenne Kaiserslautern",
+			"url": "http://aac.stream.antenne-kl.de"
+		},
+		{
+			"sendername": "1A 70er Hits",
+			"url": "http://stream.1a-webradio.de/saw-70er/aac-48/radiosure-1a/stream.mp3"
+		},
+		{
+			"sendername": "1A 80er Hits",
+			"url": "http://stream.1a-webradio.de/saw-80er/aac-48/radiosure-1a/stream.mp3"
+		},
+		{
+			"sendername": "1A 90er Hits",
+			"url": "http://stream.1a-webradio.de/saw-90er/mp3-128/radio-browser-1A/stream.mp3"
+		},
+		{
+			"sendername": "Bayern 1 Oberbayern (56 kbit/s)",
+			"url": "http://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/56/stream.mp3"
+		},
+		{
+			"sendername": "Bayern 1 Schwaben (56 kbit/s)",
+			"url": "http://br-br1-schwaben.cast.addradio.de/br/br1/schwaben/mp3/56/stream.mp3"
+		},
+		{
+			"sendername": "Bayern 2 Nord (128k)",
+			"url": "http://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "Bayern 2 Süd",
+			"url": "http://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "Bayern 3",
+			"url": "http://streams.br.de/bayern3_2.m3u"
+		},
+		{
+			"sendername": "Bibel TV",
+			"url": "http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8"
+		},
+		{
+			"sendername": "Bibelradio NT Psalmen",
+			"url": "http://rs1.stream24.org:9160/stream"
+		},
+		{
+			"sendername": "BR Nord.TV",
+			"url": "https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8"
+		},
+		{
+			"sendername": "BR-Klassik",
+			"url": "http://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "Bremen Eins - Beat-Club",
+			"url": "http://80.252.104.101:8000/beatclub.m3u"
+		},
+		{
+			"sendername": "Bremen Next",
+			"url": "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "ByteFM (192k)",
+			"url": "https://bytefm.cast.addradio.de/bytefm/main/high/stream"
+		},
+		{
+			"sendername": "Charivari 95.5 München - Arbeitsmix",
+			"url": "http://rs24.stream24.net/arbeitsmix.mp3"
+		},
+		{
+			"sendername": "Charivari 98.6 Nürnberg",
+			"url": "http://webstream.charivari986.de/charivari986"
+		},
+		{
+			"sendername": "Charivari Partyhitmix",
+			"url": "http://www.charivari.de/webradio/r8083.pls"
+		},
+		{
+			"sendername": "Deluxe Lounge Radio",
+			"url": "https://deluxemusic.tv/fileadmin/Webdata/downloads/Playlisten/DELUXE_LOUNGE_RADIO.m3u"
+		},
+		{
+			"sendername": "Deluxe Music",
+			"url": "https://deluxe-radio.mivitec.net:8443/0005"
+		},
+		{
+			"sendername": "Deutsche Welle.TV",
+			"url": "https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8"
+		},
+		{
+			"sendername": "Deutschlandfunk  [MP3 64kbit/s]",
+			"url": "http://www.deutschlandradio.de/streaming/dlf_lq_mp3.m3u"
+		},
+		{
+			"sendername": "Die Neue 107.7 - OLDIES",
+			"url": "https://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7"
+		},
+		{
+			"sendername": "DIE NEUE 107.7 80er-Radio",
+			"url": "http://dieneue1077.cast.addradio.de/dieneue1077/80er/high/stream.mp3"
+		},
+		{
+			"sendername": "DIE NEUE 107.7 Rock",
+			"url": "http://dieneue1077.cast.addradio.de/dieneue1077/rock/high/stream.mp3"
+		},
+		{
+			"sendername": "Dom Radio",
+			"url": "http://domradio-mp3-l.akacast.akamaistream.net/7/809/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-l"
+		},
+		{
+			"sendername": "Energy 80s",
+			"url": "http://broadcast.infomaniak.ch/energy80s-high.mp3.m3u"
+		},
+		{
+			"sendername": "Energy 90s",
+			"url": "http://broadcast.infomaniak.ch/energy90s-high.mp3.m3u"
+		},
+		{
+			"sendername": "Energy München (NRJ) 93",
+			"url": "http://cdn.nrjaudio.fm/adwz1/de/33003/mp3_128.mp3"
+		},
+		{
+			"sendername": "German TOP100 Single Charts",
+			"url": "http://37.187.21.174:5000/Single-Charts"
+		},
+		{
+			"sendername": "German TOP30 Party Schlager Charts",
+			"url": "http://37.187.21.174:5000/Party-Charts"
+		},
+		{
+			"sendername": "German TOP40 Black Charts",
+			"url": "http://37.187.21.174:5000/Black-Charts"
+		},
+		{
+			"sendername": "Gong 96.3",
+			"url": "http://mp3.radiogong963.c.nmdn.net/fs_radiogong963/livestream.mp3"
+		},
+		{
+			"sendername": "HouseTime.FM",
+			"url": "https://listen.housetime.fm/aac-hd.pls"
+		},
+		{
+			"sendername": "I Love 2 Dance",
+			"url": "http://stream02.iloveradio.de/iloveradio2.mp3"
+		},
+		{
+			"sendername": "I love charts",
+			"url": "http://stream09.iloveradio.de/iloveradio9.mp3"
+		},
+		{
+			"sendername": "Inforadio (48 kbit/s)",
+			"url": "http://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/48/stream.mp3"
+		},
+		{
+			"sendername": "Kaffee Radio",
+			"url": "http://stream.laut.fm/kaffee"
+		},
+		{
+			"sendername": "Kinder-Weihnacht",
+			"url": "http://stream.laut.fm/kinderweihnachtsradio"
+		},
+		{
+			"sendername": "Kinderlieder Plus",
+			"url": "http://stream.laut.fm/kinderlieder-plus"
+		},
+		{
+			"sendername": "Klassik Radio - Opera",
+			"url": "http://stream.klassikradio.de/opera/mp3-128/www.klassikradio.de/"
+		},
+		{
+			"sendername": "KroneHit - Boygroups",
+			"url": "http://onair-ha1.krone.at/kronehit-boygroups.mp3"
+		},
+		{
+			"sendername": "KroneHit - Charts",
+			"url": "http://onair.krone.at/kronehit-charts.mp3"
+		},
+		{
+			"sendername": "KroneHit - Event 3",
+			"url": "http://onair.krone.at/kronehit-event3.mp3"
+		},
+		{
+			"sendername": "Kulturradio (48 kbit/s)",
+			"url": "http://www.kulturradio.de/live_s.m3u"
+		},
+		{
+			"sendername": "L'Unico",
+			"url": "http://icecast.l-uni.co:8001/lunico_high_mp3"
+		},
+		{
+			"sendername": "LandesWelle Deutsch",
+			"url": "http://stream.landeswelle.de/lwde/mp3-192/rin/"
+		},
+		{
+			"sendername": "LandLiebe Radio",
+			"url": "http://landliebe.bcast.infomaniak.ch/landliebe-high.mp3"
+		},
+		{
+			"sendername": "Laser*Star Radio - Top 100 Germany",
+			"url": "http://listen.radionomy.com/top100-germany.m3u"
+		},
+		{
+			"sendername": "Laut FM Ostwelle",
+			"url": "http://stream.laut.fm/ostwelle"
+		},
+		{
+			"sendername": "Lebensradio",
+			"url": "https://laut.fm/lebensradio"
+		},
+		{
+			"sendername": "Leipzig Fernsehen.TV",
+			"url": "http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8"
+		},
+		{
+			"sendername": "Life Channel",
+			"url": "http://mp3.lifechannel.ch/LC128"
+		},
+		{
+			"sendername": "M1.FM - Oldies",
+			"url": "http://tuner.m1.fm/oldies.mp3"
+		},
+		{
+			"sendername": "M1.FM - Rock",
+			"url": "http://tuner.m1.fm/rock.mp3"
+		},
+		{
+			"sendername": "M1.FM - Schlagerparty",
+			"url": "http://tuner.m1.fm/schlagerparty.mp3"
+		},
+		{
+			"sendername": "NDR 1 Welle Nord",
+			"url": "http://www.ndr.de/resources/metadaten/audio/m3u/low/ndr1wellenord_ki.m3u"
+		},
+		{
+			"sendername": "NDR 2",
+			"url": "http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "Palmenstrandradio",
+			"url": "http://188.138.16.171:8000"
+		},
+		{
+			"sendername": "PANORAMA80",
+			"url": "http://stream.laut.fm/panorama80.m3u"
+		},
+		{
+			"sendername": "Party Radio",
+			"url": "http://stream.laut.fm/party"
+		},
+		{
+			"sendername": "Pirate Radio Bayern",
+			"url": "http://laut.fm/pirateradio"
+		},
+		{
+			"sendername": "Radio 105 FM (Live)",
+			"url": "http://radio.netstream.ch/planet105_128k_mp3"
+		},
+		{
+			"sendername": "Radio Arabella München",
+			"url": "http://rs26.stream24.net/stream?ref=radioarabella.de"
+		},
+		{
+			"sendername": "Radio Augsburg",
+			"url": "http://streamplus51.leonex.de:15440"
+		},
+		{
+			"sendername": "Rock Antenne",
+			"url": "http://www.rockantenne.de/webradio/channels/deutschrock.m3u"
+		},
+		{
+			"sendername": "Rock Antenne - Heavy Metal",
+			"url": "http://mp3channels.webradio.rockantenne.de/heavy-metal"
+		},
+		{
+			"sendername": "Rock Antenne - Punk Rock",
+			"url": "http://mp3channels.webradio.rockantenne.de/punkrock.aac"
+		},
+		{
+			"sendername": "ROCK ANTENNE Alternative",
+			"url": "http://www.rockantenne.de/webradio/channels/alternative.m3u"
+		},
+		{
+			"sendername": "RTL Die besten Hits aller Zeiten",
+			"url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64"
+		},
+		{
+			"sendername": "RTL Radio",
+			"url": "http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/vtuner"
+		},
+		{
+			"sendername": "RWW - Radio Welle Wörthersee",
+			"url": "http://s9.pop-stream.de:9750"
+		},
+		{
+			"sendername": "Sunrise Radio",
+			"url": "http://server2.blitz-stream.de:7920/"
+		},
+		{
+			"sendername": "SWR 3 (64 kbit/s)",
+			"url": "http://mp3-live.swr3.de/swr3_s.m3u"
+		},
+		{
+			"sendername": "SWR 3 Party",
+			"url": "https://swr-swr-raka06.sslcast.addradio.de/swr/swr/raka06/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "SWR 3 Rock",
+			"url": "https://swr-swr-raka05.sslcast.addradio.de/swr/swr/raka05/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "SWR 4 BW (64 kbit/s)",
+			"url": "http://swr-swr4-fn.cast.addradio.de/swr/swr4/fn/mp3/64/stream.mp3"
+		},
+		{
+			"sendername": "TechnoBase.FM",
+			"url": "http://lw2.mp3.tb-group.fm/tb.mp3"
+		},
+		{
+			"sendername": "Technoclub",
+			"url": "http://tunein.mlc.fm/technolovers.pls"
+		},
+		{
+			"sendername": "VOGTLAND RADIO (48k)",
+			"url": "http://vogtlandradio.mp3.green.ch/vogtland_48k_mp3"
+		},
+		{
+			"sendername": "volXmusik.de",
+			"url": "http://stream.laut.fm/volxmusik"
+		},
+		{
+			"sendername": "WDR 1Live - HipHop",
+			"url": "http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "WDR 3 HQ",
+			"url": "http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3"
+		},
+		{
+			"sendername": "WDR 4",
+			"url": "https://wdr-wdr4-live.sslcast.addradio.de/wdr/wdr4/live/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "WDR 5",
+			"url": "http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "WDR COSMO",
+			"url": "http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3"
+		},
+		{
+			"sendername": "Welle 1 Salzburg",
+			"url": "http://live.welle1.at:8128/"
+		},
+		{
+			"sendername": "Welle Niederrhein",
+			"url": "http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-wellenr/livestream.mp3"
+		},
+		{
+			"sendername": "Welt der Wunder.TV",
+			"url": "http://live.vidoo.de/live/weltderwunder/master.m3u8"
+		},
+		{
+			"sendername": "WELT.TV",
+			"url": "https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8"
+		},
+		{
+			"sendername": "ZDF HD.TV",
+			"url": "https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8"
+		},
+		{
+			"sendername": "ZDF heute.TV",
+			"url": "https://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8?"
+		}
+	],
+	"presetliste":
+	[
+		0, 1, 2, 3, 4
+	]
+}
